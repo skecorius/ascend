@@ -6,7 +6,7 @@
 
 https://skecorius.github.io/ascend/
 
-# My Blog
+# Dr. Simonas Kecorius blog about Aerosol Science
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
